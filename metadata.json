@@ -1,0 +1,6 @@
+{
+  "name": "Deli Bros Cafe — Titiwangsa Sentral, Kuala Lumpur",
+  "description": "Premium modern website concept for Deli Bros Cafe in Titiwangsa Sentral, Kuala Lumpur. Featuring artisan coffee, comfort food, and warm neighbourhood hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
